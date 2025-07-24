@@ -55,6 +55,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav10090&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
+<!-- Contribution Snake -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arnav10090/Arnav10090/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arnav10090/Arnav10090/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Arnav10090/Arnav10090/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav10090&show_icons=true&locale=en&layout=compact" alt="arnav10090" /></p>
 
