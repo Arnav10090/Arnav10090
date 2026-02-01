@@ -41,17 +41,15 @@
 
 </br>
 
-- 🔭 I’ve worked on [AI Content Generator App, BookStore App, PassVault App](https://github.com/Arnav10090/Ai-content-generator,https://github.com/Arnav10090/BookStoreApp,https://github.com/Arnav10090/PassVault)
+- 🔭 I’ve worked on [Autopilot AI, AI Content Generator App, BookStore App, PassVault App](https://github.com/Arnav10090/Ai-content-generator,https://github.com/Arnav10090/BookStoreApp,https://github.com/Arnav10090/PassVault)
 
-- 🌱 I’m currently learning **AI/ML, Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **AI/ML, Gen AI and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arnav10090?tab=repositories](https://github.com/Arnav10090?tab=repositories)
 
-- 💬 Ask me about **Next, React, Node, MongoDB, MySQL, Typescript, Redux**
+- 💬 Ask me about **Next, React, Node, MongoDB, MySQL, Typescript, Django**
 
 - 📫 How to reach me **arnavt292@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1flkrKC3JGF4S_BdQfbgfnRtOrjMjvxXD/view?usp=drive_link](https://drive.google.com/file/d/1flkrKC3JGF4S_BdQfbgfnRtOrjMjvxXD/view?usp=drive_link)
 
 - ⚡ Fun fact **Ich bin ein kreativer Programmierer**
 
