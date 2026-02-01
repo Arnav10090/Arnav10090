@@ -194,21 +194,6 @@
 
 </br>
 
-<!-- Languages Used & GitHub Stats -->
-<table align="center">
-  <tr>
-    <td align="center"><h3>📈 Languages Used</h3></td>
-    <td align="center"><h3>📊 GitHub Stats</h3></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav10090&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arnav10090&show_icons=true&locale=en" alt="GitHub Stats" width="400"/>
-    </td>
-  </tr>
-</table>
 
 
 <!-- Footer -->
