@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%7C+ML+Engineer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Agentic+%7C+AI+Engineer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views and Other Badges -->
