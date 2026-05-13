@@ -41,7 +41,7 @@
 
 </br>
 
-- 🔭 I’ve worked on [Autopilot AI, AI Content Generator App, BookStore App, PassVault App](https://github.com/Arnav10090/Ai-content-generator,https://github.com/Arnav10090/BookStoreApp,https://github.com/Arnav10090/PassVault)
+- 🔭 I’ve worked on [SkillsBridge, Autopilot AI, AI Content Generator App](https://github.com/Arnav10090/Ai-content-generator,https://github.com/Arnav10090/BookStoreApp,https://github.com/Arnav10090/PassVault)
 
 - 🌱 I’m currently learning **AI/ML, Gen AI and Deep Learning**
 
