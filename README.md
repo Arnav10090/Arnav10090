@@ -1,190 +1,233 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arnav%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Industrial%20Automation&descSize=18&descColor=a5b4fc&animation=fadeIn" />
 
-<!-- Header -->
-<h1 align="center">Hey there! 👋 I'm Arnav Tiwari</h1>
+<br/>
 
-<!-- Typing SVG -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TYPING SVG                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Agentic+AI+Engineer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Agentic+AI+%26+LLM+Engineer+%F0%9F%A4%96;Industrial+Automation+Builder+%F0%9F%8F%AD;Competitive+Programmer+%E2%98%85+CodeChef+5%E2%98%85;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
-<!-- Profile Views and Other Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnav10090&label=Profile%20views&color=0e75b6&style=flat" alt="arnav10090" />
-  <img src="https://img.shields.io/github/followers/Arnav10090?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Arnav10090?label=Stars&style=social" alt="stars" />
-</p>
+<br/>
 
-<!-- Connect With Me and Typing GIF side-by-side -->
-<table align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROFILE BADGES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnav10090&label=Profile%20Views&color=6366f1&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Arnav10090?label=Followers&style=flat-square&color=6366f1" />
+  <img src="https://img.shields.io/github/stars/Arnav10090?label=Stars&style=flat-square&color=6366f1" />
+  <img src="https://img.shields.io/badge/BTech-IIIT%20Nagpur-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/CodeChef-5★%20%7C%202029-6366f1?style=flat-square&logo=codechef" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              CONNECT + GIF (Side by Side)                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<table align="center" border="0">
   <tr>
-    <td align="center">
-      <h3>Connect with me 🤝</h3>
-      <a href="https://twitter.com/arnav_iiitn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/arnav-tiwari-063278253" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-      <a href="https://instagram.com/arnav_tiwari1009" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-      <a href="https://www.codechef.com/users/arnavt292" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/arnav_100904" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-      <a href="https://discord.gg/1036276735567728721" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+    <td align="center" width="380">
+      <h3>🤝 Connect With Me</h3>
+      <br/>
+      <a href="https://linkedin.com/in/arnav-tiwari-063278253" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://arnav-s-portfolio-website.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="mailto:arnavt292@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://twitter.com/arnav_iiitn" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.codechef.com/users/arnavt292" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5E4B3C?style=for-the-badge&logo=codechef&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.leetcode.com/arnav_100904" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://discord.gg/1036276735567728721" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://instagram.com/arnav_tiwari1009" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200" alt="Typing Animation" />
+    <td align="center" width="340">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" alt="Coding Animation" />
+      <br/><br/>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="200" />
     </td>
   </tr>
 </table>
 
+<br/>
 
-<div align = "center">
+---
 
-</br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">🧑‍💻 About Me</h2>
 
-- 🔭 I’ve worked on [SkillsBridge, Autopilot AI, AI Content Generator App](https://github.com/Arnav10090/SkillBridge,https://github.com/Arnav10090/Autopilot-Ai,https://github.com/Arnav10090/Ai-content-generator)
+<table align="center" border="0" width="85%">
+  <tr>
+    <td>
 
-- 🌱 I’m currently learning **AI/ML, Gen AI and Deep Learning**
+- 🔭 &nbsp;I've built [**SkillBridge**](https://github.com/Arnav10090/SkillBridge), [**Autopilot AI**](https://github.com/Arnav10090/Autopilot-Ai), and [**AI Content Generator**](https://github.com/Arnav10090/Ai-content-generator)
+- 🏭 &nbsp;Currently interning at **Hitachi India** — cutting hazardous incidents by **54%** via SLD visualization
+- 🌱 &nbsp;Deepening expertise in **AI/ML, Gen AI, LangChain, and Deep Learning**
+- 👨‍💻 &nbsp;All my projects live at [github.com/Arnav10090](https://github.com/Arnav10090?tab=repositories)
+- 💬 &nbsp;Ask me about **Next.js, React, Node, FastAPI, Django, PostgreSQL, LLMs**
+- 📫 &nbsp;Reach me at **arnavt292@gmail.com**
+- 🏆 &nbsp;**CodeChef 5★** (Rating 2029) · **97.6 percentile** JEE Mains 2022
+- ⚡ &nbsp;Fun fact: *Ich bin ein kreativer Programmierer* 🇩🇪
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arnav10090?tab=repositories](https://github.com/Arnav10090?tab=repositories)
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **Next, React, Node, MongoDB, MySQL, Typescript, Django**
+<br/>
 
-- 📫 How to reach me **arnavt292@gmail.com**
+---
 
-- ⚡ Fun fact **Ich bin ein kreativer Programmierer**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   EXPERIENCE HIGHLIGHTS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">💼 Experience Highlights</h2>
 
-</br>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-  </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
-</a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-</p>
-
-
-</br>
-
-<!-- Contribution Graph -->
-<h2>📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav10090&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
-
-<!-- Contribution Snake -->
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
+
+| 🏢 Company | 💼 Role | 📅 Duration | 🏆 Impact |
+|:---|:---|:---|:---|
+| **Hitachi India Pvt. Ltd.** | Software Developer Intern | Jul 2025 – Present | 54% ↓ hazardous incidents · 80% faster docs |
+| **Payatu Security Consulting** | Full Stack Developer Intern | May – Jul 2025 | 50% faster page loads · 40% better API response |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Arnav10090/SkillBridge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav10090&repo=SkillBridge&theme=tokyonight&hide_border=true" />
+      </a>
+      <br/>
+      <sub>🧠 AI skill gap analyzer · F1 > 0.82 · 2,484 resumes</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Arnav10090/Autopilot-Ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav10090&repo=Autopilot-Ai&theme=tokyonight&hide_border=true" />
+      </a>
+      <br/>
+      <sub>🤖 Multi-agent AI · 83% faster project planning</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Arnav10090/Ai-content-generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav10090&repo=Ai-content-generator&theme=tokyonight&hide_border=true" />
+      </a>
+      <br/>
+      <sub>✍️ LLM SaaS · 18 templates · 70% faster content</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<h4 align="center">Languages</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+</div>
+
+<h4 align="center">Frontend</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,html,css,bootstrap&theme=dark" />
+</div>
+
+<h4 align="center">Backend & Databases</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,postgresql,mysql,mongodb,redis,firebase&theme=dark" />
+</div>
+
+<h4 align="center">DevOps, Cloud & Tools</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,bash,vercel,gcp,aws,postman&theme=dark" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arnav10090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav10090&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav10090&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION GRAPH                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnav10090&theme=tokyo-night&hide_border=true&custom_title=Arnav%27s%20Contribution%20Graph&area=true" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arnav10090/Arnav10090/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arnav10090/Arnav10090/blob/output/github-contribution-grid-snake.svg" />
@@ -192,14 +235,49 @@
   </picture>
 </div>
 
-</br>
+<br/>
 
+---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">🏆 Achievements</h2>
 
-<!-- Footer -->
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" 
-    style="width: 100%; margin: 0; padding: 0;" 
-  />
+
+| 🥇 Achievement | 📋 Details |
+|:---|:---|
+| ⭐ **CodeChef 5★** | Rating 2029 — Top competitive programmers globally |
+| 🥈 **1st Runner Up** | ArtPark Codeforge Hackathon (Unstop) — National level |
+| 🎯 **JEE Mains 97.6 percentile** | AIR 22,007 out of 1.1 million+ candidates |
+
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arnav10090&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⭐ <b>Star some repos if you find them useful!</b> · Made with ❤️ by <a href="https://arnav-s-portfolio-website.vercel.app/">Arnav Tiwari</a></sub>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
