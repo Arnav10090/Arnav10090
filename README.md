@@ -133,21 +133,27 @@
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/Arnav10090/SkillBridge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav10090&repo=SkillBridge&theme=tokyonight&hide_border=true" />
+        <img src="./assets/skillbridge logo.png" width="280" alt="SkillBridge" />
+        <br/><br/>
+        <b>SkillBridge</b>
       </a>
       <br/>
       <sub>🧠 AI skill gap analyzer · F1 > 0.82 · 2,484 resumes</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/Arnav10090/Autopilot-Ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav10090&repo=Autopilot-Ai&theme=tokyonight&hide_border=true" />
+        <img src="./assets/autopilot-pic.webp" width="280" alt="Autopilot AI" />
+        <br/><br/>
+        <b>Autopilot AI</b>
       </a>
       <br/>
       <sub>🤖 Multi-agent AI · 83% faster project planning</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/Arnav10090/Ai-content-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav10090&repo=Ai-content-generator&theme=tokyonight&hide_border=true" />
+        <img src="./assets/ai-content-pic.webp" width="280" alt="AI Content Generator" />
+        <br/><br/>
+        <b>AI Content Generator</b>
       </a>
       <br/>
       <sub>✍️ LLM SaaS · 18 templates · 70% faster content</sub>
