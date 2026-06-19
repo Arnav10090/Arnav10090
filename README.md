@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arnav%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Industrial%20Automation&descSize=18&descColor=a5b4fc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arnav%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20C%2B%2B%20Developer%20%E2%80%A2%20Competitive%20Programmer&descSize=18&descColor=a5b4fc&animation=fadeIn" />
 
 <br/>
 
@@ -9,7 +9,7 @@
 <!--                       TYPING SVG                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%9A%80;C%2B%2B+Developer+%E2%9A%A1;Agentic+AI+%26+LLM+Engineer+%F0%9F%A4%96;Competitive+Programmer+at+CodeChef+%F0%9F%8F%86;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%9A%80;C%2B%2B+Developer+%E2%9A%A1;Competitive+Programmer+at+CodeChef+%F0%9F%8F%86;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
