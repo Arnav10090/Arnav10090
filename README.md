@@ -9,7 +9,7 @@
 <!--                       TYPING SVG                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Agentic+AI+%26+LLM+Engineer+%F0%9F%A4%96;Competitive+Programmer+%E2%98%85+CodeChef+5%E2%98%85;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%9A%80;C%2B%2B+Developer+%E2%9A%A1;Agentic+AI+%26+LLM+Engineer+%F0%9F%A4%96;Competitive+Programmer+at+CodeChef+%F0%9F%8F%86;Open+to+Exciting+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
