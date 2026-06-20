@@ -81,7 +81,7 @@
   <tr>
     <td>
 
-- 🔭 &nbsp;I've built [**SkillBridge**](https://github.com/Arnav10090/SkillBridge), [**Autopilot AI**](https://github.com/Arnav10090/Autopilot-Ai), and [**AI Content Generator**](https://github.com/Arnav10090/Ai-content-generator)
+- 🔭 &nbsp;I've built [**SkillBridge**](https://github.com/Arnav10090/SkillBridge), [**Autopilot AI**](https://github.com/Arnav10090/Autopilot-Ai), [**Low Latency Limit Order Book Matching Engine**](https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine) and  [**AI Content Generator**](https://github.com/Arnav10090/Ai-content-generator)
 - 🏭 &nbsp;Currently interning at **Hitachi India** — cutting hazardous incidents by **54%** via SLD visualization
 - 🌱 &nbsp;Deepening expertise in **AI/ML, Gen AI, LangChain, and Deep Learning**
 - 👨‍💻 &nbsp;All my projects live at [github.com/Arnav10090](https://github.com/Arnav10090?tab=repositories)
