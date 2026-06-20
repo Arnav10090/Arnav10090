@@ -125,6 +125,15 @@
 <table border="0">
   <tr>
     <td width="33%" align="center">
+      <a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
+        <img src="./assets/skillbridge logo.png" width="280" alt="SkillBridge" />
+        <br/><br/>
+        <b>Low-Latency-Limit-Order-Book-Matching-Engine</b>
+      </a>
+      <br/>
+      <sub>⚡ C++17 low-latency matching engine • Lock-free SPSC • 1.4M+ orders/sec</sub>
+    </td>
+    <td width="33%" align="center">
       <a href="https://github.com/Arnav10090/SkillBridge">
         <img src="./assets/skillbridge logo.png" width="280" alt="SkillBridge" />
         <br/><br/>
