@@ -126,7 +126,7 @@
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
-        <img src="./assets/skillbridge logo.png" width="280" alt="SkillBridge" />
+        <img src="./assets/limit-order-book-matching-engine.png" width="280" alt="limit-order-book-matching-engine" />
         <br/><br/>
         <b>Low-Latency-Limit-Order-Book-Matching-Engine</b>
       </a>
