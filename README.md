@@ -121,53 +121,83 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
-        <img src="./assets/limit-order-book-matching-engine.png" width="320" alt="Low-Latency Order Matching Engine" />
-        <br/><br/>
-        <b>Low-Latency-Limit-Order-Book-Matching-Engine</b>
-      </a>
-      <br/>
-      <sub>⚡ C++17 low-latency matching engine • Lock-free SPSC • 1.4M+ orders/sec</sub>
-    </td>
+<table>
+<tr>
+<td align="center" width="50%">
 
-    <td width="50%" align="center">
-      <a href="https://github.com/Arnav10090/SkillBridge">
-        <img src="./assets/skillbridge logo.png" width="320" alt="SkillBridge" />
-        <br/><br/>
-        <b>SkillBridge</b>
-      </a>
-      <br/>
-      <sub>🧠 AI skill gap analyzer • F1 > 0.82 • 2,484 resumes</sub>
-    </td>
-  </tr>
+<a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
+<img src="./assets/limit-order-book-matching-engine.png" width="300" />
+</a>
 
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Arnav10090/Autopilot-Ai">
-        <img src="./assets/autopilot-pic.webp" width="320" alt="Autopilot AI" />
-        <br/><br/>
-        <b>Autopilot AI</b>
-      </a>
-      <br/>
-      <sub>🤖 Multi-agent AI • 83% faster project planning</sub>
-    </td>
+<br><br>
 
-    <td width="50%" align="center">
-      <a href="https://github.com/Arnav10090/Ai-content-generator">
-        <img src="./assets/ai-content-pic.webp" width="320" alt="AI Content Generator" />
-        <br/><br/>
-        <b>AI Content Generator</b>
-      </a>
-      <br/>
-      <sub>✍️ LLM SaaS • 18 templates • 70% faster content</sub>
-    </td>
-  </tr>
+<a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
+<b>Low-Latency-Limit-Order-Book-Matching-Engine</b>
+</a>
+
+<br>
+
+<sub>⚡ C++17 low-latency matching engine • Lock-free SPSC • 1.4M+ orders/sec</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/Arnav10090/SkillBridge">
+<img src="./assets/skillbridge logo.png" width="300" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Arnav10090/SkillBridge">
+<b>SkillBridge</b>
+</a>
+
+<br>
+
+<sub>🧠 AI skill gap analyzer • F1 > 0.82 • 2,484 resumes</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/Arnav10090/Autopilot-Ai">
+<img src="./assets/autopilot-pic.webp" width="300" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Arnav10090/Autopilot-Ai">
+<b>Autopilot AI</b>
+</a>
+
+<br>
+
+<sub>🤖 Multi-agent AI • 83% faster project planning</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/Arnav10090/Ai-content-generator">
+<img src="./assets/ai-content-pic.webp" width="300" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Arnav10090/Ai-content-generator">
+<b>AI Content Generator</b>
+</a>
+
+<br>
+
+<sub>✍️ LLM SaaS • 18 templates • 70% faster content</sub>
+
+</td>
+</tr>
 </table>
-</div>
 
 <br/>
 
