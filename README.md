@@ -124,41 +124,46 @@
 <div align="center">
 <table border="0">
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
-        <img src="./assets/limit-order-book-matching-engine.png" width="280" alt="limit-order-book-matching-engine" />
+        <img src="./assets/limit-order-book-matching-engine.png" width="320" alt="Low-Latency Order Matching Engine" />
         <br/><br/>
         <b>Low-Latency-Limit-Order-Book-Matching-Engine</b>
       </a>
       <br/>
       <sub>⚡ C++17 low-latency matching engine • Lock-free SPSC • 1.4M+ orders/sec</sub>
     </td>
-    <td width="33%" align="center">
+
+    <td width="50%" align="center">
       <a href="https://github.com/Arnav10090/SkillBridge">
-        <img src="./assets/skillbridge logo.png" width="280" alt="SkillBridge" />
+        <img src="./assets/skillbridge logo.png" width="320" alt="SkillBridge" />
         <br/><br/>
         <b>SkillBridge</b>
       </a>
       <br/>
-      <sub>🧠 AI skill gap analyzer · F1 > 0.82 · 2,484 resumes</sub>
+      <sub>🧠 AI skill gap analyzer • F1 > 0.82 • 2,484 resumes</sub>
     </td>
-    <td width="33%" align="center">
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
       <a href="https://github.com/Arnav10090/Autopilot-Ai">
-        <img src="./assets/autopilot-pic.webp" width="280" alt="Autopilot AI" />
+        <img src="./assets/autopilot-pic.webp" width="320" alt="Autopilot AI" />
         <br/><br/>
         <b>Autopilot AI</b>
       </a>
       <br/>
-      <sub>🤖 Multi-agent AI · 83% faster project planning</sub>
+      <sub>🤖 Multi-agent AI • 83% faster project planning</sub>
     </td>
-    <td width="33%" align="center">
+
+    <td width="50%" align="center">
       <a href="https://github.com/Arnav10090/Ai-content-generator">
-        <img src="./assets/ai-content-pic.webp" width="280" alt="AI Content Generator" />
+        <img src="./assets/ai-content-pic.webp" width="320" alt="AI Content Generator" />
         <br/><br/>
         <b>AI Content Generator</b>
       </a>
       <br/>
-      <sub>✍️ LLM SaaS · 18 templates · 70% faster content</sub>
+      <sub>✍️ LLM SaaS • 18 templates • 70% faster content</sub>
     </td>
   </tr>
 </table>
