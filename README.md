@@ -125,15 +125,6 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Arnav10090/Low-Latency-Limit-Order-Book-Matching-Engine">
-        <img src="./assets/limit-order-book-matching-engine.png" width="280" alt="limit-order-book-matching-engine" />
-        <br/><br/>
-        <b>Low-Latency-Limit-Order-Book-Matching-Engine</b>
-      </a>
-      <br/>
-      <sub>⚡ C++17 low-latency matching engine • Lock-free SPSC • 1.4M+ orders/sec</sub>
-    </td>
-    <td width="50%" align="center">
       <a href="https://github.com/Arnav10090/SkillBridge">
         <img src="./assets/skillbridge logo.png" width="280" alt="SkillBridge" />
         <br/><br/>
@@ -154,10 +145,10 @@
       <sub>🤖 Multi-agent AI · 83% faster project planning</sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Arnav10090/Ai-content-generator">
+      <a href="https://github.com/Arnav10090/ContentForge-AI">
         <img src="./assets/ai-content-pic.webp" width="280" alt="AI Content Generator" />
         <br/><br/>
-        <b>AI Content Generator</b>
+        <b>ContentForge AI</b>
       </a>
       <br/>
       <sub>✍️ LLM SaaS · 18 templates · 70% faster content</sub>
