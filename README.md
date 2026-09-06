@@ -133,8 +133,6 @@
       <br/>
       <sub>🧠 AI skill gap analyzer · F1 > 0.82 · 2,484 resumes</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Arnav10090/Autopilot-Ai">
         <img src="./assets/autopilot-pic.webp" width="280" alt="Autopilot AI" />
@@ -144,7 +142,9 @@
       <br/>
       <sub>🤖 Multi-agent AI · 83% faster project planning</sub>
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://github.com/Arnav10090/ContentForge-AI">
         <img src="./assets/ai-content-pic.webp" width="280" alt="AI Content Generator" />
         <br/><br/>
